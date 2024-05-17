@@ -13,7 +13,7 @@ class Config:
     )
     forcemsg = (
         'ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ ᴘᴇsᴀɴ ʏᴀɴɢ ᴅɪɴᴀɢɪᴋᴀɴ ᴏʟᴇʜ ʙᴏᴛ. '
-        'Join first, then press the Try Again button.'
+        'ɢᴀʙᴜɴɢ ᴅᴜʟᴜ, ʟᴀʟᴜ ᴛᴇᴋᴀɴ ᴛᴏᴍʙᴏʟ ᴄᴏʙᴀ ʟᴀɢɪ.'
     )
 
     API_ID = int(os.environ.get('API_ID', 2040))
