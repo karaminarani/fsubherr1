@@ -16,11 +16,11 @@ class Config:
         'ɢᴀʙᴜɴɢ ᴅᴜʟᴜ, ʟᴀʟᴜ ᴛᴇᴋᴀɴ ᴛᴏᴍʙᴏʟ ᴄᴏʙᴀ ʟᴀɢɪ.'
     )
 
-    API_ID = int(os.environ.get('API_ID', 2040))
+    API_ID = int(os.environ.get('API_ID', 27538621))
     API_HASH = (
         os.environ.get(
             'API_HASH',
-            'b18441a1ff607e10a989891a5462e627',
+            '24c338d23154f5ea8adb9fc684a4a06f',
         ),
     )
     OWNER_ID = int(os.environ.get('OWNER_ID', 1700312902))
