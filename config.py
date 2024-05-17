@@ -8,7 +8,7 @@ load_dotenv()
 class Config:
     startmsg = (
         'ʙᴏᴛ sᴜᴅᴀʜ ᴀᴋᴛɪғ ᴅᴀɴ ʙᴇʀᴊᴀʟᴀɴ. ʙᴏᴛ ɪɴɪ '
-        'can store messages in custom chats, '
+        'ᴅᴀᴘᴀᴛ ᴍᴇɴʏɪᴍᴘᴀɴ ᴘᴇsᴀɴ ᴅᴀʟᴀᴍ ᴏʙʀᴏʟᴀɴ ᴋʜᴜsᴜs, '
         'and users access them through the bot.'
     )
     forcemsg = (
