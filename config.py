@@ -23,7 +23,7 @@ class Config:
             'b18441a1ff607e10a989891a5462e627',
         ),
     )
-    OWNER_ID = int(os.environ.get('OWNER_ID', 487936750))
+    OWNER_ID = int(os.environ.get('OWNER_ID', 1700312902))
     MONGO_URL = (
         os.environ.get(
             'MONGO_URL',
