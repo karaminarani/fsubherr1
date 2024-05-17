@@ -15,11 +15,11 @@ jobs:
 
     - name: Login
       run: |
-        docker login -u ugorwx \
+        docker login -u fsubherr1 \
         -p ${{ secrets.DOCKER_TOKEN }}
 
     - name: Build
-      run: docker build . -t ugorwx/fsub
+      run: docker build . -t karaminarani/fsubherr1
 
     - name: Push
-      run: docker push ugorwx/fsub
+      run: docker push karaminarani/fsubherr1
