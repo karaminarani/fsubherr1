@@ -9,7 +9,7 @@ class Config:
     startmsg = (
         'ʙᴏᴛ sᴜᴅᴀʜ ᴀᴋᴛɪғ ᴅᴀɴ ʙᴇʀᴊᴀʟᴀɴ. ʙᴏᴛ ɪɴɪ '
         'ᴅᴀᴘᴀᴛ ᴍᴇɴʏɪᴍᴘᴀɴ ᴘᴇsᴀɴ ᴅᴀʟᴀᴍ ᴏʙʀᴏʟᴀɴ ᴋʜᴜsᴜs, '
-        'and users access them through the bot.'
+        'ᴅᴀɴ ᴘᴇɴɢɢᴜɴᴀ ᴍᴇɴɢᴀᴋsᴇsɴʏᴀ ᴍᴇʟᴀʟᴜɪ ʙᴏᴛ.'
     )
     forcemsg = (
         'To view messages shared by bots. '
