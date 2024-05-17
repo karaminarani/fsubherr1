@@ -12,7 +12,7 @@ class Config:
         'ᴅᴀɴ ᴘᴇɴɢɢᴜɴᴀ ᴍᴇɴɢᴀᴋsᴇsɴʏᴀ ᴍᴇʟᴀʟᴜɪ ʙᴏᴛ.'
     )
     forcemsg = (
-        'To view messages shared by bots. '
+        'ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ ᴘᴇsᴀɴ ʏᴀɴɢ ᴅɪɴᴀɢɪᴋᴀɴ ᴏʟᴇʜ ʙᴏᴛ. '
         'Join first, then press the Try Again button.'
     )
 
