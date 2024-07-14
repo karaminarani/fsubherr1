@@ -100,7 +100,7 @@ class Helpers:
             layouts.append(
                 [
                     (
-                        'Try Again',
+                        'Coba Lagi',
                         self.urlstr(message.command[1]),
                         'url',
                     ),
